@@ -1,0 +1,19 @@
+h1 {
+  margin-left: 47%;
+}
+
+.descriptionBox {
+  width: 90%;
+  display: flex;
+  margin-bottom: 2rem;
+}
+
+span.Description {
+  margin: 16px;
+}
+
+p {
+  font-size: 20px;
+  width: 90%;
+  padding-left: 10%;
+}

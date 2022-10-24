@@ -1,0 +1,69 @@
+.FieldHeading {
+  color: #495057;
+  margin: 5px;
+}
+
+.FieldGroup {
+  display: flex;
+  width: 100%;
+  margin-bottom: 2rem;
+  border: 1px solid;
+  justify-content: center;
+  align-items: center;
+}
+
+.FieldItem {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-right: 1px solid;
+  width: 25%;
+  height: 3rem;
+}
+
+.FieldItem:active,
+.FieldItem:hover {
+  background-color: #495057;
+  color: #ced4da;
+}
+
+.ClusterItem {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-right: 1px solid;
+  width: 33%;
+  height: 3rem;
+}
+
+.ClusterItem:active,
+.ClusterItem:hover {
+  background-color: #495057;
+  color: #ced4da;
+}
+
+.FieldItem:last-child {
+  border-right: none;
+}
+
+.ClusterItem:last-child {
+  border-right: none;
+}
+
+.FieldEl {
+  display: none;
+}
+
+.formSubmit {
+  width: 60%;
+  height: 3rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+  align-self: center;
+  margin-left: 20%;
+}
+
+.formSubmit:hover,
+.formSubmit:active {
+  background-color: #ced4da;
+}

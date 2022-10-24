@@ -1,0 +1,25 @@
+.explanationBox {
+  width: 90%;
+  display: inline-flex;
+  margin-bottom: 2rem;
+}
+
+div.Description {
+  margin: 16px;
+}
+
+p {
+  font-size: 20px;
+  margin-left: 12px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  margin-top: 8px;
+  margin-left: 36px;
+}

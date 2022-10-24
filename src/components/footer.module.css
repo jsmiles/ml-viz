@@ -1,0 +1,17 @@
+.footer {
+  height: 8rem;
+  margin-top: 6rem;
+  background-color: #495057;
+  color: #ced4da;
+  font-size: 2rem;
+  line-height: 8rem;
+  text-align: center;
+}
+
+.footerLink {
+  background-color: #495057;
+  color: #ced4da;
+  font-size: 2rem;
+  line-height: 8rem;
+  text-decoration: none;
+}
